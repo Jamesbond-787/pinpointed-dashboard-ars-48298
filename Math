@@ -1,7 +1,8 @@
- <a href="https://pinpointed-dashboard-ars-48292.vercel.app" target="_blank">
+<html>
+    <a href="https://pinpointed-dashboard-ars-48292.vercel.app" target="_blank">
                 <div class="Math lessons" style="opacity:0;" id="https://media.istockphoto.com/id/946621188/vector/vector-illustrations-of-kids-having-math-lesson.jpg?s=1024x1024&w=is&k=20&c=7cFa2drHjNT_55P9FtHOn7SCdZ97sAzMZ-PRoGf-PAA=">
                     <img src="https://media.istockphoto.com/id/946621188/vector/vector-illustrations-of-kids-having-math-lesson.jpg?s=1024x1024&w=is&k=20&c=7cFa2drHjNT_55P9FtHOn7SCdZ97sAzMZ-PRoGf-PAA=" class="hidden" width="75" id="img_unblckr" draggable="false">
                     <span class="text" id="text_unblckr">https://media.istockphoto.com/id/946621188/vector/vector-illustrations-of-kids-having-math-lesson.jpg?s=1024x1024&w=is&k=20&c=7cFa2drHjNT_55P9FtHOn7SCdZ97sAzMZ-PRoGf-PAA=</span>
                 </div>
-  </a>
-
+     </a>
+</html>
